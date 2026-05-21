@@ -1,0 +1,11 @@
+
+===== LAPORAN ANALISIS TEKS =====
+
+Jumlah Baris      : 0
+Jumlah Kata       : 0
+Jumlah Vokal      : 0
+Jumlah Konsonan   : 0
+
+5 Kata Terbanyak:
+
+Grafik Frekuensi Kata:
